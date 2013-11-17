@@ -1,9 +1,9 @@
 === Export Categories ===
-Contributors: shambhu patanik
+Contributors: shambhu patnaik
 Donate link: http://aynsoft.com/
 Tags: export,export categories,export-categories
 Requires at least: 2.9
-Tested up to: 3.6
+Tested up to: 3.7.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
