@@ -5,14 +5,7 @@ Plugin URI: http://wordpress.org/extend/plugins/export-categories/
 Description: export you wordpress categories only to another wordpress site
 Version: 1.0
 Author: Shambhu Prasad Patnaik
-Author URI:http://aynsoft.com/
-*/
-/*
-***********************************************************
-**********#	Name	    : Shambhu Prasad Patnaik   #*******
-**********#	Company	    : Aynsoft			   #***********
-**********#	Copyright (c) www.aynsoft.com 2013 #***********
-***********************************************************
+Author URI:http://socialcms.wordpress.com/
 */
 register_deactivation_hook(__FILE__, 'export_categories_deactivate');
 register_activation_hook(__FILE__, 'export_categories_activate');
